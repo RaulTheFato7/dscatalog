@@ -1,3 +1,40 @@
-INSERT INTO tb_category (name, created_At) VALUES ('Computers', NOW())
-INSERT INTO tb_category (name, created_At) VALUES ('Eletronics', NOW())
-INSERT INTO tb_category (name, created_At) VALUES ('Books', NOW())
+INSERT INTO tb_category (name, created_At) VALUES ('Computers', NOW());
+INSERT INTO tb_category (name, created_At) VALUES ('Electronics', NOW());
+INSERT INTO tb_category (name, created_At) VALUES ('Books', NOW());
+INSERT INTO tb_category (name, created_At) VALUES ('Home Appliances', NOW());
+INSERT INTO tb_category (name, created_At) VALUES ('Furniture', NOW());
+INSERT INTO tb_category (name, created_At) VALUES ('Clothing', NOW());
+INSERT INTO tb_category (name, created_At) VALUES ('Shoes', NOW());
+INSERT INTO tb_category (name, created_At) VALUES ('Accessories', NOW());
+INSERT INTO tb_category (name, created_At) VALUES ('Toys', NOW());
+INSERT INTO tb_category (name, created_At) VALUES ('Sports', NOW());
+INSERT INTO tb_category (name, created_At) VALUES ('Health', NOW());
+INSERT INTO tb_category (name, created_At) VALUES ('Beauty', NOW());
+INSERT INTO tb_category (name, created_At) VALUES ('Automotive', NOW());
+INSERT INTO tb_category (name, created_At) VALUES ('Garden', NOW());
+INSERT INTO tb_category (name, created_At) VALUES ('Tools', NOW());
+INSERT INTO tb_category (name, created_At) VALUES ('Music', NOW());
+INSERT INTO tb_category (name, created_At) VALUES ('Movies', NOW());
+INSERT INTO tb_category (name, created_At) VALUES ('Games', NOW());
+INSERT INTO tb_category (name, created_At) VALUES ('Pet Supplies', NOW());
+INSERT INTO tb_category (name, created_At) VALUES ('Office Supplies', NOW());
+INSERT INTO tb_category (name, created_At) VALUES ('Stationery', NOW());
+INSERT INTO tb_category (name, created_At) VALUES ('Groceries', NOW());
+INSERT INTO tb_category (name, created_At) VALUES ('Beverages', NOW());
+INSERT INTO tb_category (name, created_At) VALUES ('Snacks', NOW());
+INSERT INTO tb_category (name, created_At) VALUES ('Baby Products', NOW());
+INSERT INTO tb_category (name, created_At) VALUES ('Cleaning Supplies', NOW());
+INSERT INTO tb_category (name, created_At) VALUES ('Lighting', NOW());
+INSERT INTO tb_category (name, created_At) VALUES ('Decor', NOW());
+INSERT INTO tb_category (name, created_At) VALUES ('Hardware', NOW());
+INSERT INTO tb_category (name, created_At) VALUES ('Software', NOW());
+INSERT INTO tb_category (name, created_At) VALUES ('Networking', NOW());
+INSERT INTO tb_category (name, created_At) VALUES ('Security', NOW());
+INSERT INTO tb_category (name, created_At) VALUES ('Wearables', NOW());
+INSERT INTO tb_category (name, created_At) VALUES ('Cameras', NOW());
+INSERT INTO tb_category (name, created_At) VALUES ('Audio', NOW());
+INSERT INTO tb_category (name, created_At) VALUES ('Video', NOW());
+INSERT INTO tb_category (name, created_At) VALUES ('Smart Home', NOW());
+INSERT INTO tb_category (name, created_At) VALUES ('Fitness', NOW());
+INSERT INTO tb_category (name, created_At) VALUES ('Outdoor', NOW());
+INSERT INTO tb_category (name, created_At) VALUES ('Travel', NOW());
